@@ -1,0 +1,7 @@
+customer_id,full_name,city,loyalty_tier,annual_income_band,effective_date
+C001,Alice Johnson,Boston,Platinum,High,2024-02-01
+C002,Bob Smith,Los Angeles,Gold,High,2024-02-01
+C003,Carol White,Chicago,Silver,Medium,2024-02-01
+C007,Frank Miller,Seattle,Silver,Medium,2024-02-01
+C009,Henry Wilson,San Diego,Platinum,High,2024-02-01
+C012,Karen Moore,Austin,Gold,High,2024-02-01
